@@ -1,0 +1,5 @@
+# Secret stuff
+config/secrets/*
+
+# Developer config
+config/developer.rb
